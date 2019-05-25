@@ -1,0 +1,10 @@
+Cab booking service is a major transport service provided by the various transport operators in a particular city. Most of the people use cab service for their daily transportations need. More and more taxi companies are looking for integrated taxi booking systems as it makes life much easier for the customer as well for the company.
+
+The proposed Online Cab Booking project system ensures that the users can book the cab as per their requirements by logging on. 
+
+It allows users to book their cabs online, manage their bookings and cancel their bookings at any point of time.
+
+The users will get notified about the driver and his mobile no. so as to communicate with him.
+Regular updates are provided to the customer so that they are aware of their bookings, driver details, and booking status.
+
+The user can also drop in their suggestions or queries in the feedback form.
